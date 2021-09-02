@@ -1,0 +1,10 @@
+img {
+    width:320px ; /*largura */
+
+    height:180px ; /*altura */
+    max-width: 320px;
+    border-radius: 10%;
+    border: 1 px solid chartreuse;
+
+    
+}
